@@ -1,6 +1,8 @@
 import fs from 'node:fs';
-const syms=(JSON.parse(fs.readFileSync('symbols.json','utf8')).symbols)||[];
-const out={app:'mos-desk-quotes',version:1,updated:Date.now(),quotes:{}};
+let syms=[];
+try{const db=JSON.parse(fs.readFileSync('database.json','utf8'));syms=(db.items||[]).map(i=>String(i.symbol||'').toUpperCase()).filter(Boolean);}catch(e){}
+if(!syms.length){try{syms=(JSON.parse(fs.readFileSync('symbols.json','utf8')).symbols)||[];}catch(e){}}
+const out={app:'mos-desk-quotes',version:2,updated:Date.now(),quotes:{}};
 const suf=s=>{const i=s.lastIndexOf('.');return i>0?s.slice(i+1):'';};
 const stq=s=>{const m={US:'us',DE:'de',L:'uk',WA:'pl',PR:'cz',F:'de',SW:'ch'};const k=suf(s)||'US';return m[k]?s.slice(0,s.lastIndexOf('.')).toLowerCase()+'.'+m[k]:null;};
 for(const s of syms){let q=null;
