@@ -1,34 +1,7 @@
 {
   "symbols": [
-    "AAPL",
-    "GOOGL",
-    "KO",
-    "SAP.DE",
-    "SIE.DE",
-    "ASML.AS",
-    "MC.PA",
-    "AIR.PA",
-    "SHEL.L",
-    "AZN.L",
-    "ULVR.L",
-    "UCG.MI",
-    "RACE.MI",
-    "ITX.MC",
-    "IBE.MC",
-    "NESN.SW",
-    "NOVN.SW",
-    "ROG.SW",
-    "NOVO-B.CO",
-    "NOKIA.HE",
-    "KRKG.LJ",
-    "VWCE.DE",
-    "SXR8.DE",
-    "EUNL.DE",
-    "IWDA.AS",
-    "MEUD.PA",
-    "EXS1.DE",
-    "CSPX.L",
-    "EIMI.L"
+    "LAND",
+    "UNH"
   ],
-  "updatedAt": 1795172111265
+  "updatedAt": 1795183096243
 }
