@@ -2,8 +2,8 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 1339,
-    "updatedAt": 1795442658318,
+    "rev": 1340,
+    "updatedAt": 1795442669298,
     "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
   },
   "items": [
@@ -106,26 +106,6 @@
       "source": "td",
       "demo": false,
       "updated": 1795442235369
-    },
-    {
-      "id": "de55ea95-76d6-4da4-a3ab-515ad92cf5e2",
-      "symbol": "LAND",
-      "name": "Land Securities Group PLC",
-      "type": "stock",
-      "currency": "USD",
-      "exchange": "NasdaqGM",
-      "mic": "",
-      "flag": "🇺🇸",
-      "fv": null,
-      "mos1": null,
-      "mos2": null,
-      "notes": "",
-      "addedAt": 1795182282735,
-      "price": 6.2,
-      "prevClose": 6.239999771118164,
-      "source": "gh",
-      "demo": false,
-      "updated": 1795423146796
     }
   ],
   "views": [],
