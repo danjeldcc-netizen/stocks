@@ -2,8 +2,8 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 1539,
-    "updatedAt": 1795444476586,
+    "rev": 1540,
+    "updatedAt": 1795444490524,
     "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
   },
   "items": [
@@ -61,11 +61,11 @@
       "mos2": 45.3,
       "notes": "",
       "addedAt": 1795441814643,
-      "price": 47.76,
-      "prevClose": 47.82,
+      "price": 47.84,
+      "prevClose": 47.76,
       "source": "td",
       "demo": false,
-      "updated": 1795442211700
+      "updated": 1795444476917
     },
     {
       "id": "b3e3f51b-c8d7-401a-99bd-a034b5bf988b",
@@ -81,11 +81,11 @@
       "mos2": 75.5,
       "notes": "",
       "addedAt": 1795441634789,
-      "price": 79.82,
-      "prevClose": 80.86,
+      "price": 80.57,
+      "prevClose": 79.82,
       "source": "td",
       "demo": false,
-      "updated": 1795442219375
+      "updated": 1795444484522
     },
     {
       "id": "d15a5d4f-bd40-48a6-908f-26faf8de6b1a",
