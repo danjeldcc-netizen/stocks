@@ -2,8 +2,8 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 68,
-    "updatedAt": 1795430800992,
+    "rev": 69,
+    "updatedAt": 1795430809651,
     "device": "6659f60b-2939-412b-8241-4901c3e57f50"
   },
   "items": [
@@ -13,7 +13,7 @@
       "name": "RELX ADR",
       "type": "stock",
       "currency": "USD",
-      "exchange": "US",
+      "exchange": "NYSE",
       "mic": "",
       "flag": "🇺🇸",
       "fv": null,
@@ -21,11 +21,11 @@
       "mos2": 34,
       "notes": "",
       "addedAt": 1795429733581,
-      "price": null,
-      "prevClose": null,
-      "source": "pending",
+      "price": 38.54,
+      "prevClose": 38.83,
+      "source": "td",
       "demo": false,
-      "updated": null
+      "updated": 1795430802218
     },
     {
       "id": "de55ea95-76d6-4da4-a3ab-515ad92cf5e2",
