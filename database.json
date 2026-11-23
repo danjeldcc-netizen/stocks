@@ -2,11 +2,31 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 86,
-    "updatedAt": 1795430999339,
-    "device": "6659f60b-2939-412b-8241-4901c3e57f50"
+    "rev": 87,
+    "updatedAt": 1795431322947,
+    "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
   },
   "items": [
+    {
+      "id": "d15a5d4f-bd40-48a6-908f-26faf8de6b1a",
+      "symbol": "LGGNY",
+      "name": "Legal & General Group",
+      "type": "stock",
+      "currency": "USD",
+      "exchange": "OTC",
+      "mic": "",
+      "flag": "🇺🇸",
+      "fv": null,
+      "mos1": 18.7,
+      "mos2": 17.88,
+      "notes": "",
+      "addedAt": 1795431180263,
+      "price": 19.08,
+      "prevClose": 19.5,
+      "source": "td",
+      "demo": false,
+      "updated": 1795431226520
+    },
     {
       "id": "4482a460-411c-4c81-b0cf-d7fa6f1b2937",
       "symbol": "RELX.US",
@@ -25,7 +45,7 @@
       "prevClose": 38.83,
       "source": "td",
       "demo": false,
-      "updated": 1795430802218
+      "updated": 1795431234225
     },
     {
       "id": "de55ea95-76d6-4da4-a3ab-515ad92cf5e2",
