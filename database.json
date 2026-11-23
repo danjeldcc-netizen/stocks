@@ -2,11 +2,31 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 1226,
-    "updatedAt": 1795441634253,
+    "rev": 1227,
+    "updatedAt": 1795441643049,
     "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
   },
   "items": [
+    {
+      "id": "b3e3f51b-c8d7-401a-99bd-a034b5bf988b",
+      "symbol": "NGG",
+      "name": "National Grid PLC ADR",
+      "type": "stock",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "mic": "",
+      "flag": "🇺🇸",
+      "fv": null,
+      "mos1": 77.9,
+      "mos2": 75.5,
+      "notes": "",
+      "addedAt": 1795441634789,
+      "price": 79.82,
+      "prevClose": 80.86,
+      "source": "td",
+      "demo": false,
+      "updated": 1795441635080
+    },
     {
       "id": "d15a5d4f-bd40-48a6-908f-26faf8de6b1a",
       "symbol": "LGGNY",
