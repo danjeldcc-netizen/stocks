@@ -2,11 +2,31 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 1246,
-    "updatedAt": 1795441812804,
+    "rev": 1247,
+    "updatedAt": 1795441821399,
     "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
   },
   "items": [
+    {
+      "id": "6d435c2b-a425-4b1e-904b-8b3859e21998",
+      "symbol": "GSK",
+      "name": "GSK plc DRC",
+      "type": "stock",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "mic": "",
+      "flag": "🇺🇸",
+      "fv": null,
+      "mos1": 47,
+      "mos2": 45.3,
+      "notes": "",
+      "addedAt": 1795441814643,
+      "price": 47.76,
+      "prevClose": 47.82,
+      "source": "td",
+      "demo": false,
+      "updated": 1795441814874
+    },
     {
       "id": "b3e3f51b-c8d7-401a-99bd-a034b5bf988b",
       "symbol": "NGG",
