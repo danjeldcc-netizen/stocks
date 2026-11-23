@@ -2,8 +2,8 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 124,
-    "updatedAt": 1795431651496,
+    "rev": 125,
+    "updatedAt": 1795431662641,
     "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
   },
   "items": [
@@ -66,26 +66,6 @@
       "source": "gh",
       "demo": false,
       "updated": 1795423146796
-    },
-    {
-      "id": "0a61706c-7216-46f7-9103-d7e3f63b2ad5",
-      "symbol": "UNH",
-      "name": "United health",
-      "type": "stock",
-      "currency": "USD",
-      "exchange": "NYSE",
-      "mic": "",
-      "flag": "🇺🇸",
-      "fv": null,
-      "mos1": null,
-      "mos2": null,
-      "notes": "",
-      "addedAt": 1795182195711,
-      "price": 339.85,
-      "prevClose": 330.4800109863281,
-      "source": "gh",
-      "demo": false,
-      "updated": 1795423147241
     }
   ],
   "views": [],
