@@ -2,11 +2,31 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 1337,
-    "updatedAt": 1795442640926,
+    "rev": 1338,
+    "updatedAt": 1795442649670,
     "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
   },
   "items": [
+    {
+      "id": "2bd2319c-2791-49e8-90f7-d4e668051d3d",
+      "symbol": "AMZN",
+      "name": "AMAZON",
+      "type": "stock",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "mic": "",
+      "flag": "🇺🇸",
+      "fv": null,
+      "mos1": 239,
+      "mos2": null,
+      "notes": "",
+      "addedAt": 1795442642027,
+      "price": 246.82001,
+      "prevClose": 257.37,
+      "source": "td",
+      "demo": false,
+      "updated": 1795442642337
+    },
     {
       "id": "6d435c2b-a425-4b1e-904b-8b3859e21998",
       "symbol": "GSK",
