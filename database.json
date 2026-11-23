@@ -1,19 +1,39 @@
 {
   "app": "mos-desk-db",
-  "version": 8,
+  "version": 9,
   "meta": {
-    "rev": 46,
-    "updatedAt": 1795183497146,
-    "device": "a370780b-6dd4-433a-b663-f65909c12541"
+    "rev": 47,
+    "updatedAt": 1795430613336,
+    "device": "6659f60b-2939-412b-8241-4901c3e57f50"
   },
   "items": [
+    {
+      "id": "4482a460-411c-4c81-b0cf-d7fa6f1b2937",
+      "symbol": "RELX.US",
+      "name": "RELX ADR",
+      "type": "stock",
+      "currency": "USD",
+      "exchange": "US",
+      "mic": "",
+      "flag": "🇺🇸",
+      "fv": null,
+      "mos1": 37,
+      "mos2": 34,
+      "notes": "",
+      "addedAt": 1795429733581,
+      "price": null,
+      "prevClose": null,
+      "source": "pending",
+      "demo": false,
+      "updated": null
+    },
     {
       "id": "de55ea95-76d6-4da4-a3ab-515ad92cf5e2",
       "symbol": "LAND",
       "name": "Land Securities Group PLC",
       "type": "stock",
       "currency": "USD",
-      "exchange": "NASDAQ",
+      "exchange": "NasdaqGM",
       "mic": "",
       "flag": "🇺🇸",
       "fv": null,
@@ -21,11 +41,11 @@
       "mos2": null,
       "notes": "",
       "addedAt": 1795182282735,
-      "price": 6.24,
-      "prevClose": 6.41,
-      "source": "td",
+      "price": 6.2,
+      "prevClose": 6.239999771118164,
+      "source": "gh",
       "demo": false,
-      "updated": 1795182367339
+      "updated": 1795423146796
     },
     {
       "id": "0a61706c-7216-46f7-9103-d7e3f63b2ad5",
@@ -41,11 +61,11 @@
       "mos2": null,
       "notes": "",
       "addedAt": 1795182195711,
-      "price": 330.48001,
-      "prevClose": 349.91,
-      "source": "td",
+      "price": 339.85,
+      "prevClose": 330.4800109863281,
+      "source": "gh",
       "demo": false,
-      "updated": 1795182374916
+      "updated": 1795423147241
     }
   ],
   "views": [],
