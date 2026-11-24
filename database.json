@@ -2,8 +2,8 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 1667,
-    "updatedAt": 1795502733343,
+    "rev": 1668,
+    "updatedAt": 1795502754751,
     "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
   },
   "items": [
@@ -13,7 +13,7 @@
       "name": "Astra Zeneca",
       "type": "stock",
       "currency": "USD",
-      "exchange": "NASDAQ",
+      "exchange": "NYSE",
       "mic": "",
       "flag": "🇺🇸",
       "fv": null,
@@ -21,11 +21,11 @@
       "mos2": null,
       "notes": "",
       "addedAt": 1795442815253,
-      "price": 175.34,
-      "prevClose": 174.35001,
-      "source": "td",
+      "price": 177.02,
+      "prevClose": 174.35000610351562,
+      "source": "gh",
       "demo": false,
-      "updated": 1795444461815
+      "updated": 1795497034776
     },
     {
       "id": "2bd2319c-2791-49e8-90f7-d4e668051d3d",
@@ -33,7 +33,7 @@
       "name": "AMAZON",
       "type": "stock",
       "currency": "USD",
-      "exchange": "NASDAQ",
+      "exchange": "NasdaqGS",
       "mic": "",
       "flag": "🇺🇸",
       "fv": null,
@@ -41,11 +41,11 @@
       "mos2": null,
       "notes": "",
       "addedAt": 1795442642027,
-      "price": 256.53,
-      "prevClose": 246.82001,
-      "source": "td",
+      "price": 255.39,
+      "prevClose": 246.82000732421875,
+      "source": "gh",
       "demo": false,
-      "updated": 1795444469328
+      "updated": 1795497035186
     },
     {
       "id": "6d435c2b-a425-4b1e-904b-8b3859e21998",
@@ -61,11 +61,11 @@
       "mos2": 45.3,
       "notes": "",
       "addedAt": 1795441814643,
-      "price": 47.84,
-      "prevClose": 47.76,
-      "source": "td",
+      "price": 48.57,
+      "prevClose": 47.7599983215332,
+      "source": "gh",
       "demo": false,
-      "updated": 1795444476917
+      "updated": 1795497035616
     },
     {
       "id": "b3e3f51b-c8d7-401a-99bd-a034b5bf988b",
@@ -81,11 +81,11 @@
       "mos2": 75.5,
       "notes": "",
       "addedAt": 1795441634789,
-      "price": 80.57,
-      "prevClose": 79.82,
-      "source": "td",
+      "price": 80.6,
+      "prevClose": 79.81999969482422,
+      "source": "gh",
       "demo": false,
-      "updated": 1795444484522
+      "updated": 1795497036034
     },
     {
       "id": "d15a5d4f-bd40-48a6-908f-26faf8de6b1a",
@@ -93,7 +93,7 @@
       "name": "Legal & General Group",
       "type": "stock",
       "currency": "USD",
-      "exchange": "OTC",
+      "exchange": "OTC Markets OTCPK",
       "mic": "",
       "flag": "🇺🇸",
       "fv": null,
@@ -101,11 +101,11 @@
       "mos2": 17.88,
       "notes": "",
       "addedAt": 1795431180263,
-      "price": 19.08,
-      "prevClose": 19.5,
-      "source": "td",
+      "price": 19.38,
+      "prevClose": 19.079999923706055,
+      "source": "gh",
       "demo": false,
-      "updated": 1795444492095
+      "updated": 1795497036466
     },
     {
       "id": "4482a460-411c-4c81-b0cf-d7fa6f1b2937",
