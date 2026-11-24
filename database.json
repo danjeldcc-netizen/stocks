@@ -2,11 +2,31 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 3395,
-    "updatedAt": 1795518524227,
+    "rev": 3396,
+    "updatedAt": 1795518532992,
     "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
   },
   "items": [
+    {
+      "id": "63187155-871b-422a-b8cf-a1fbe6e6080d",
+      "symbol": "AVVIY",
+      "name": "Aviva PLC ADR",
+      "type": "stock",
+      "currency": "USD",
+      "exchange": "OTC",
+      "mic": "",
+      "flag": "🇺🇸",
+      "fv": null,
+      "mos1": 18.75,
+      "mos2": null,
+      "notes": "",
+      "addedAt": 1795518524366,
+      "price": 19.68,
+      "prevClose": 19.33,
+      "source": "td",
+      "demo": false,
+      "updated": 1795518524929
+    },
     {
       "id": "3da034c9-ee1a-44bf-aa90-523ceba9ba03",
       "symbol": "AZN",
