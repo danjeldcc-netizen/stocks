@@ -2,8 +2,8 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 3802,
-    "updatedAt": 1795522422497,
+    "rev": 3803,
+    "updatedAt": 1795522434491,
     "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
   },
   "items": [
@@ -25,7 +25,7 @@
       "prevClose": 19.33,
       "source": "td",
       "demo": false,
-      "updated": 1795518767674
+      "updated": 1795522427869
     },
     {
       "id": "3da034c9-ee1a-44bf-aa90-523ceba9ba03",
