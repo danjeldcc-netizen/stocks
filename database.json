@@ -2,18 +2,78 @@
   "app": "mos-desk-db",
   "version": 9,
   "meta": {
-    "rev": 4902,
-    "updatedAt": 1795532663636,
-    "device": "72327859-79cc-4b82-a9f9-0f130ec8f205"
+    "rev": 4903,
+    "updatedAt": 1795786988097,
+    "device": "25001e99-1e2e-4355-87c0-eeea0e8f81d6"
   },
   "items": [
+    {
+      "id": "5e54f2ee-1dbd-4e1b-b280-3e916ecb81c5",
+      "symbol": "RMD",
+      "name": "REsmed",
+      "type": "stock",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "mic": "",
+      "flag": "🇺🇸",
+      "fv": null,
+      "mos1": 219,
+      "mos2": null,
+      "notes": "",
+      "addedAt": 1795786865056,
+      "price": 245.7,
+      "prevClose": 243.44,
+      "source": "td",
+      "demo": false,
+      "updated": 1795786865316
+    },
+    {
+      "id": "1ed5dc6c-44e1-403f-80af-7bc43282ec0e",
+      "symbol": "ZTS",
+      "name": "ZOETIS",
+      "type": "stock",
+      "currency": "USD",
+      "exchange": "NYSE",
+      "mic": "",
+      "flag": "🇺🇸",
+      "fv": null,
+      "mos1": 80,
+      "mos2": null,
+      "notes": "",
+      "addedAt": 1795786779157,
+      "price": 82.6,
+      "prevClose": 81.47,
+      "source": "td",
+      "demo": false,
+      "updated": 1795786779432
+    },
+    {
+      "id": "9f1bb31d-3aca-4c32-b543-13b3e2e30103",
+      "symbol": "RMVEY",
+      "name": "Rightmove PLC",
+      "type": "stock",
+      "currency": "USD",
+      "exchange": "OTC",
+      "mic": "",
+      "flag": "🇺🇸",
+      "fv": null,
+      "mos1": 12.6,
+      "mos2": null,
+      "notes": "",
+      "addedAt": 1795786564370,
+      "price": 14.07,
+      "prevClose": 14.23,
+      "source": "td",
+      "demo": false,
+      "updated": 1795786564688
+    },
     {
       "id": "63187155-871b-422a-b8cf-a1fbe6e6080d",
       "symbol": "AVVIY",
       "name": "Aviva PLC ADR",
       "type": "stock",
       "currency": "USD",
-      "exchange": "OTC",
+      "exchange": "OTC Markets OTCQX",
       "mic": "",
       "flag": "🇺🇸",
       "fv": null,
@@ -21,11 +81,11 @@
       "mos2": null,
       "notes": "",
       "addedAt": 1795518524366,
-      "price": 19.68,
-      "prevClose": 19.33,
-      "source": "td",
+      "price": 19.75,
+      "prevClose": 19.850000381469727,
+      "source": "gh",
       "demo": false,
-      "updated": 1795529696929
+      "updated": 1795755017928
     },
     {
       "id": "3da034c9-ee1a-44bf-aa90-523ceba9ba03",
@@ -41,11 +101,11 @@
       "mos2": null,
       "notes": "",
       "addedAt": 1795442815253,
-      "price": 177.02,
-      "prevClose": 174.35000610351562,
+      "price": 184.21,
+      "prevClose": 183.1999969482422,
       "source": "gh",
       "demo": false,
-      "updated": 1795497034776
+      "updated": 1795755018338
     },
     {
       "id": "2bd2319c-2791-49e8-90f7-d4e668051d3d",
@@ -61,11 +121,11 @@
       "mos2": null,
       "notes": "",
       "addedAt": 1795442642027,
-      "price": 255.39,
-      "prevClose": 246.82000732421875,
+      "price": 244.43,
+      "prevClose": 252.2899932861328,
       "source": "gh",
       "demo": false,
-      "updated": 1795497035186
+      "updated": 1795755018767
     },
     {
       "id": "6d435c2b-a425-4b1e-904b-8b3859e21998",
@@ -81,11 +141,11 @@
       "mos2": 45.3,
       "notes": "",
       "addedAt": 1795441814643,
-      "price": 48.57,
-      "prevClose": 47.7599983215332,
+      "price": 50.76,
+      "prevClose": 50.06999969482422,
       "source": "gh",
       "demo": false,
-      "updated": 1795497035616
+      "updated": 1795755019176
     },
     {
       "id": "b3e3f51b-c8d7-401a-99bd-a034b5bf988b",
@@ -101,11 +161,11 @@
       "mos2": 75.5,
       "notes": "",
       "addedAt": 1795441634789,
-      "price": 80.6,
-      "prevClose": 79.81999969482422,
+      "price": 82.54,
+      "prevClose": 82.29000091552734,
       "source": "gh",
       "demo": false,
-      "updated": 1795497036034
+      "updated": 1795755019577
     },
     {
       "id": "d15a5d4f-bd40-48a6-908f-26faf8de6b1a",
@@ -121,11 +181,11 @@
       "mos2": 17.88,
       "notes": "",
       "addedAt": 1795431180263,
-      "price": 19.38,
-      "prevClose": 19.079999923706055,
+      "price": 19.7,
+      "prevClose": 19.65999984741211,
       "source": "gh",
       "demo": false,
-      "updated": 1795497036466
+      "updated": 1795755019976
     },
     {
       "id": "4482a460-411c-4c81-b0cf-d7fa6f1b2937",
@@ -141,11 +201,11 @@
       "mos2": 34,
       "notes": "",
       "addedAt": 1795429733581,
-      "price": 38.41,
-      "prevClose": 38.54,
+      "price": 40.15,
+      "prevClose": 39.54,
       "source": "td",
       "demo": false,
-      "updated": 1795529704848
+      "updated": 1795785999564
     }
   ],
   "views": [],
