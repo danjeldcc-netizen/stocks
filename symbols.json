@@ -1,5 +1,8 @@
 {
   "symbols": [
+    "RMD",
+    "ZTS",
+    "RMVEY",
     "AVVIY",
     "AZN",
     "AMZN",
@@ -8,5 +11,5 @@
     "LGGNY",
     "RELX.US"
   ],
-  "updatedAt": 1795532664651
+  "updatedAt": 1795786990155
 }
